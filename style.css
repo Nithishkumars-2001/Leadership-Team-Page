@@ -496,6 +496,7 @@ body{
         width: 220px;
         padding: 25px;
         right: 40px;
+        margin-top: 30px;
     }
 
     .leadership-team-text h3{
@@ -514,7 +515,7 @@ body{
     }
 
     .leadership-team-text-bg{
-         height: 555Vh;
+        height: 542Vh;
     }
 
     .leadership-team-text-bg .committed{
@@ -591,13 +592,13 @@ body{
     }
 
     .amazing-team-bg{
-        height: 710vh;
+        height: 700vh;
     }
 
     .amazing-team{
         padding: 20px;
         margin: 40px;
-        margin-top: -180px;
+        margin-top: -100px;
     }
 
     .employee img{
